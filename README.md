@@ -7,6 +7,10 @@ Solve Functionality: Provides the solution to the generated quiz when the "Solve
 Round Count Tracking: Keeps track of the number of quizzes generated.
 
 
+
+https://github.com/dikshitapatel/Quiz-IOS-App/assets/51240335/31b66272-5f5b-4b03-9d61-9ef74fca67b8
+
+
 **Usage**  
 
 Launch the app.
