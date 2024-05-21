@@ -1,0 +1,26 @@
+**MyQuiz** is a simple quiz application built using SwiftUI. It generates random arithmetic quizzes and allows users to solve them. This app serves as a basic example of how to use SwiftUI for creating interactive and dynamic user interfaces.
+
+**Features** 
+
+Random Quiz Generation: Generates a new arithmetic expression using random numbers each time the "Play" button is pressed. 
+Solve Functionality: Provides the solution to the generated quiz when the "Solve" button is pressed. 
+Round Count Tracking: Keeps track of the number of quizzes generated.
+
+
+**Usage**  
+
+Launch the app.
+Press the "Play" button to generate a new quiz.
+The generated arithmetic expression will be displayed.
+Press the "Solve" button to view the solution.
+The "Total Counts" label will update to show the number of quizzes generated.
+
+**Code Overview** 
+
+myQuizView.swift - 
+Defines the main view of the application, including the UI layout and interactions.
+
+myQuizViewModel.swift - 
+Contains the view model for the application, managing the state and logic for generating and solving quizzes.
+
+
